@@ -1,16 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const API_KEY = 'AIzaSyBoRDEY_CPZ6q-3XfZ8zFGTg0CDDLvFLJw'
+import SearchBar from './components/search_bar';
+
+const API_KEY = 'AIzaSyBgblQNo8BnjDCDyJilHIFQiifytOu9JPA'
 
 // Create a new component. this component should produce
 // Some HTML
 
 const App = () => {
-    return <div>Hi!</div>;
+    return (
+        <div>
+            <SearchBar />
+        </div>
+    )
+    
 }
 
- AIzaSyBoRDEY_CPZ6q-3XfZ8zFGTg0CDDLvFLJw 
 
 // Take this component's generates HTML and put it 
 // on the page (in the dom)
