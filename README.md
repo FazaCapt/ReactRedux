@@ -23,3 +23,11 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+Documentation:
+
+1. Google Api manage: 'https://developers.google.com/?gclid=CJH61vf7uNQCFQqhaAod6rIExQ'
+2. console Developer Google: 'https://console.developers.google.com/cloud-resource-manager?previousPage=%2F%3Fpli%3D1&pli=1'
+
+Install: 
+
+1. youtube-api-search@0.0.5
