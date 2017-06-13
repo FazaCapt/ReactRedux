@@ -31,3 +31,4 @@ Documentation:
 Install: 
 
 1. youtube-api-search@0.0.5
+2. lodash@3.10.1
